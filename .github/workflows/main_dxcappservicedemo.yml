@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DXCAPPSERVICEdemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F106811891164C66BC21445A61E331A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1C25BE27BB4492BB5B6340BFA7BBD92 }}
